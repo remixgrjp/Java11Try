@@ -9,5 +9,9 @@ public class MainActivity extends AppCompatActivity{
 	protected void onCreate( Bundle savedInstanceState ){
 		super.onCreate( savedInstanceState );
 		setContentView( R.layout.activity_main );
+
+		int i = 0x20BB7;//surrogate pair Unicode
+		String str = java.lang.Character.toString( i );//Java 11
+
 	}
 }
