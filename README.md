@@ -40,21 +40,21 @@ Registry:
 
 Android Studio &gt; File &gt; Project Structure
 
-<a target="img" href="./p010.png"><img width="600px" src="./p010.png"></a>
+<a target="img" href="./img/p010.png"><img width="600px" src="./img/p010.png"></a>
 
 Dependencies &gt; Modules, app &gt; Declare Dependencies, +, JAR/AAR Dependency
 
-<a target="img" href="./p020.png"><img width="600px" src="./p020.png"></a>
+<a target="img" href="./img/p020.png"><img width="600px" src="./img/p020.png"></a>
 
 Provide a path to the library file or Directory to add &gt; libs/MyLibrary20111008.jar &gt; ok
 
-<img src="./p030.png">
+<img src="./img/p030.png">
 
-<a target="img" href="./p040.png"><img width="600px" src="./p040.png"></a>
+<a target="img" href="./img/p040.png"><img width="600px" src="./img/p040.png"></a>
 
 success.
 
-<a target="img" href="./p050.png"><img width="600px" src="./p050.png"></a>
+<a target="img" href="./img/p050.png"><img width="600px" src="./img/p050.png"></a>
 
 ## Ticket
 https://issuetracker.google.com/issues/251742087
